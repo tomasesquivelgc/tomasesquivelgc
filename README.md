@@ -1,4 +1,4 @@
-![MasterHead](https://w0.peakpx.com/wallpaper/688/193/HD-wallpaper-ghibli-a·-github-topics-a·-github-cute-ghibli.jpg)
+![MasterHead](https://api.binarycoffee.dev/uploads/banner_my_git_config_6c929e68ee.png)
 <h1 align="center">Hi 👋, I'm Tomás Esquivel</h1>
 <h3 align="center">A full-stack dev student eager to work remotely</h3>
 
