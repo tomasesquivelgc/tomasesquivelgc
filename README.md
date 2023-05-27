@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [A Weback To-Do list](https://github.com/tomasesquivelgc/Webpack-To-Do-list)
 
-- 🌱 I’m currently learning **ES& and Webpack**
+- 🌱 I’m currently learning **ES6 and Webpack**
 
 - 📫 How to reach me **tomasesquivel@yahoo.com**
 
