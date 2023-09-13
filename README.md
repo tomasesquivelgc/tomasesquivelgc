@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasesquivelgc&label=Profile%20views&color=0e75b6&style=flat" alt="tomasesquivelgc" /> </p>
 
-- 🔭 I’m currently working on [A Weback To-Do list](https://github.com/tomasesquivelgc/Webpack-To-Do-list)
-
-- 🌱 I’m currently learning **ES6 and Webpack**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **tomasesquivel@yahoo.com**
 
