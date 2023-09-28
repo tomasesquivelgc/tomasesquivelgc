@@ -1,4 +1,4 @@
-![MasterHead](https://api.binarycoffee.dev/uploads/banner_my_git_config_6c929e68ee.png)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGZ1W0M0IhmRg/profile-displaybackgroundimage-shrink_350_1400/0/1694124488941?e=1701302400&v=beta&t=hNN6-VdreeL127jB0HHdzibrhy7xKhulejFHLJ69n3Y)
 <h1 align="center">Hi 👋, I'm Tomás Esquivel</h1>
 <h3 align="center">A full-stack dev student eager to work remotely</h3>
 
