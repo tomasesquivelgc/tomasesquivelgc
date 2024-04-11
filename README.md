@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGZ1W0M0IhmRg/profile-displaybackgroundimage-shrink_350_1400/0/1694124489871?e=1715212800&v=beta&t=Njlvur9Z3lKURZTITcqNx9pKLMuWlYQkjhFtZR5ddHM)
 <h1 align="center">Hi 👋, I'm Tomás Esquivel</h1>
-<h3 align="center">A full-stack dev student eager to work remotely</h3>
+<h3 align="center">A full-stack developer eager to work remotely</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasesquivelgc&label=Profile%20views&color=0e75b6&style=flat" alt="tomasesquivelgc" /> </p>
 
