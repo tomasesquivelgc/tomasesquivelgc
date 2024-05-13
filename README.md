@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGZ1W0M0IhmRg/profile-displaybackgroundimage-shrink_350_1400/0/1694124489871?e=1715212800&v=beta&t=Njlvur9Z3lKURZTITcqNx9pKLMuWlYQkjhFtZR5ddHM)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGZ1W0M0IhmRg/profile-displaybackgroundimage-shrink_350_1400/0/1694124489871?e=1721260800&v=beta&t=azAFLXgNL6VBGnijr-FCx7NHAKNEMiiFToNTzc0qwVc)
 <h1 align="center">Hi 👋, I'm Tomás Esquivel</h1>
 <h3 align="center">A full-stack developer eager to work remotely</h3>
 
